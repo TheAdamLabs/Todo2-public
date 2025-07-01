@@ -8,7 +8,7 @@
 **Transform your development workflow with AI-native task management.** Todo2 seamlessly integrates with Cursor AI through Model Context Protocol (MCP) for natural language todo management.
 
 <p align="center">
-  <img src="https://github.com/placeholder/todo2-public/raw/main/assets/todo2-demo.gif" alt="Todo2 Demo" width="800"/>
+  <img src="https://github.com/TheAdamLabs/Todo2-public/blob/3b3243d906a3b8b40a6f4f41b376a54839024df7/assets/todo2-demo.gif" alt="Todo2 Demo" width="800"/>
 </p>
 
 > 📹 **Demo GIF:** The demonstration above shows the complete Todo2 workflow including setup and dashboard features. *Hosted in public repository.*
@@ -140,7 +140,7 @@ Customize in VS Code Settings (`Ctrl+,`):
 
 ## 📄 License
 
-MIT License - See [LICENSE](LICENSE) for details.
+See [LICENSE](LICENSE) for details.
 
 ---
 
@@ -150,4 +150,4 @@ MIT License - See [LICENSE](LICENSE) for details.
 
 ## ✨ The Ultimate Developer Task Manager for VS Code
 
-**Todo2** is not just another todo list—it's an intelligent task management system powered by the **MCP (Multi-Contextual Prompts) Client**, designed to live right inside your favorite editor. It helps you manage complex development workflows with AI-powered task generation, state management, and seamless integration with your coding environment.
+**Todo2** is not just another todo list. It's an intelligent task management system powered by the **MCP (Multi-Contextual Prompts) Client**, designed to live right inside your favorite editor. It helps you manage complex development workflows with AI-powered task generation, state management, and seamless integration with your coding environment.
