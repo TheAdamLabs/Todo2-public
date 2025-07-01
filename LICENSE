@@ -1,0 +1,38 @@
+SOFTWARE LICENCE AGREEMENT
+
+This Licence (“Agreement”) is between you (“Licensee”) and Todo2 (“Licensor”).
+
+1. DEFINITIONS  
+   “Software” means the VS Code extension identified as “Todo2” including any updates.
+
+2. GRANT OF LICENCE  
+   Licensor grants Licensee a revocable, non-exclusive, non-transferable licence to install and use the Software for personal or internal business purposes.
+
+3. RESTRICTIONS  
+   Licensee shall NOT:
+   a) Distribute, rent, lease, sell or sublicense the Software.  
+   b) Reverse-engineer, decompile or disassemble the Software.  
+   c) Remove or alter any proprietary notices.
+
+4. OWNERSHIP  
+   All rights, title and interest in the Software remain with Licensor. All rights not expressly granted are reserved.
+
+5. WARRANTY DISCLAIMER  
+   The Software is provided “as is.” Licensor disclaims ALL WARRANTIES, express or implied, including merchantability or fitness for a particular purpose.
+
+6. LIMITATION OF LIABILITY  
+   In no event shall Licensor be liable for any indirect, incidental, consequential or punitive damages arising out of the use of the Software.
+
+7. TERMINATION  
+   This Agreement terminates automatically if Licensee breaches any term; upon termination, Licensee must uninstall and destroy all copies.
+
+8. GOVERNING LAW  
+   This Agreement is governed by the laws of [Your Jurisdiction - Please Update].
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE. 
