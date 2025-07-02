@@ -6,7 +6,7 @@
 
 **Transform your development workflow with AI-native task management.** Todo2 seamlessly integrates with Cursor AI through Model Context Protocol (MCP) for natural language todo management.
 
-![Todo2 Demo](https://github.com/TheAdamLabs/Todo2-public/blob/3b3243d906a3b8b40a6f4f41b376a54839024df7/assets/todo2-demo.gif)
+![Todo2 Demo](todo2-demo.gif)
 
 > 📹 **Demo GIF:** The demonstration above shows the complete Todo2 workflow including setup and dashboard features. *Hosted in public repository.*
 
