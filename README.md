@@ -3,13 +3,10 @@
 ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/Todo2.todo2?style=flat-square&logo=visual-studio-code)
 ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/Todo2.todo2?style=flat-square)
 ![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/Todo2.todo2?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
 
 **Transform your development workflow with AI-native task management.** Todo2 seamlessly integrates with Cursor AI through Model Context Protocol (MCP) for natural language todo management.
 
-<p align="center">
-  <img src="https://github.com/TheAdamLabs/Todo2-public/blob/3b3243d906a3b8b40a6f4f41b376a54839024df7/assets/todo2-demo.gif" alt="Todo2 Demo" width="800"/>
-</p>
+![Todo2 Demo](https://github.com/TheAdamLabs/Todo2-public/blob/3b3243d906a3b8b40a6f4f41b376a54839024df7/assets/todo2-demo.gif)
 
 > 📹 **Demo GIF:** The demonstration above shows the complete Todo2 workflow including setup and dashboard features. *Hosted in public repository.*
 
