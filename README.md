@@ -8,7 +8,7 @@
 
 ![Todo2 Demo](todo2-demo.gif)
 
-> 📹 **Demo GIF:** The demonstration above shows the complete Todo2 workflow including setup and dashboard features. *Hosted in public repository.*
+> 📹 **Demo GIF:** The demonstration above shows the complete Todo2 workflow including setup and dashboard features.
 
 ## 🚀 Quick Start
 
