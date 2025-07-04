@@ -1,4 +1,4 @@
-# Todo2 - AI-Powered Task Management for VS Code
+# Todo2 - AI-Powered Task Management for Cursor
 
 ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/Todo2.todo2?style=flat-square&logo=visual-studio-code)
 ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/Todo2.todo2?style=flat-square)
@@ -13,8 +13,8 @@
 ## 🚀 Quick Start
 
 ### Installation & Setup
-1. **Install** Todo2 from VS Code Marketplace
-2. **Open** your project workspace in VS Code  
+1. **Install** Todo2 from Cursor Marketplace
+2. **Open** your project workspace in Cursor  
 3. **Click** the "Todo2 Dashboard" button in the status bar (bottom left)
 4. **Automatic Setup** - MCP integration configures itself on first UI open
 5. **Switch** to Agent mode in Cursor
@@ -77,7 +77,7 @@ AI: ✅ Marked T-2 as "In Progress". Ready to code!
 - **✅ Results**: Completion outcomes and lessons learned
 
 ### Modern Interface
-- **Beautiful UI** matching your VS Code theme
+- **Beautiful UI** matching your Cursor theme
 - **Statistics dashboard** showing progress metrics
 - **Filter & search** for easy task discovery
 - **Responsive design** for all screen sizes
@@ -111,12 +111,12 @@ AI: ✅ Marked T-2 as "In Progress". Ready to code!
 **Tasks not saving?**
 1. Ensure workspace folder is writable
 2. Check `.todo2/state.todo2.json` file permissions
-3. Verify VS Code has file system access
+3. Verify Cursor has file system access
 
 **Status bar button not visible?**
-1. Check if status bar is enabled in VS Code (View → Appearance → Status Bar)
+1. Check if status bar is enabled in Cursor (View → Appearance → Status Bar)
 2. Look for "Todo2 Dashboard" button on the left side of the status bar
-3. Restart VS Code if the button doesn't appear after installation
+3. Restart Cursor if the button doesn't appear after installation
 
 **Need to reset MCP integration?**
 1. Delete `.cursor/mcp.json` from your home directory
@@ -136,7 +136,7 @@ AI: ✅ Marked T-2 as "In Progress". Ready to code!
 
 ## 🤝 Support & Contributing
 
-- **🐛 Issues**: Report through VS Code extension management
+- **🐛 Issues**: Report through Cursor extension management
 - **💡 Feedback**: Share ideas via marketplace reviews
 
 ## 📄 License
@@ -152,6 +152,6 @@ For more information please visit https://todo2.pro/ or write at info+todo2@thea
 
 *Install Todo2 and experience AI-powered task management today!*
 
-## ✨ The Ultimate Developer Task Manager for VS Code
+## ✨ The Ultimate Developer Task Manager for Cursor
 
 **Todo2** is not just another todo list. It's an intelligent task management system powered by the **MCP (Model Context Protocol)**, designed to live right inside your favorite editor. It helps you manage complex development workflows with AI-powered task generation, state management, and seamless integration with your coding environment.
