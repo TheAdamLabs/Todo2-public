@@ -16,7 +16,7 @@
 1. **Install** Todo2 from Cursor Marketplace
 2. **Open** your project workspace in Cursor  
 3. **Click** the "Todo2 Dashboard" button in the status bar (bottom left)
-4. **Automatic Setup** - MCP integration configures itself on first UI open
+4. **Automatic Setup** - MCP integration configures itself on first UI open, just allow MCP in left bottom corner
 5. **Switch** to Agent mode in Cursor
 
 ### Start Managing Tasks with AI
